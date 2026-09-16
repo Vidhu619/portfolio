@@ -28,7 +28,7 @@ export const intro = {
 
 export const experience = [
   {
-    range: "2025 — Present",
+    range: "May 2026— Present",
     title: "Software Engineer / Backend Developer",
     org: "Regal Jewellers",
     description:
